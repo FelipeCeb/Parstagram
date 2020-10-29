@@ -53,5 +53,7 @@ Here's a walkthrough of implemented user stories:
 There are three walkthrough because the giphy only gets 15 seconds of a Video.
 
 <https://media.giphy.com/media/0ak3TS5fYUUQy9cRuY/giphy.gif/>
+
 <https://media.giphy.com/media/040zgtWIVhJ6ON28sh/giphy.gif/>
+
 <https://media.giphy.com/media/mhFlaMwAJcTPmstBGy/giphy.gif/>
